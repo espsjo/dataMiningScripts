@@ -6,7 +6,8 @@ Scripts making life easier in INFS4203 - Data mining
 - [x] Metrics
 - [x] Normalization
 - [x] Entropy, information gain
-- [ ] Gini, gain ratio
+- [x] Gain ratio
+- [x] Gini
 - [x] k-Means, SSE
 - [x] k-NN
 - [ ] Naïve Bayes
