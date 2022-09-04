@@ -12,4 +12,4 @@ Scripts making life easier in INFS4203 - Data mining
 - [x] k-NN
 - [ ] Naïve Bayes
 - [ ] Density-based clustering
-- [ ] Hierarchical-based clustering
+- [x] Hierarchical-based clustering
